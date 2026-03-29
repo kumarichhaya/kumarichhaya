@@ -26,4 +26,3 @@ Currently applying academic rigor to these core domains:
 - **Email:** chhaya18180@gmail.com
 
 ---
-![Your GitHub Stats](https://github-readme-stats.vercel.app)
