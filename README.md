@@ -1,44 +1,38 @@
-<div align="center">
-
-# Hi there 👋 I'm Chhaya Kumari
-### MCA Student in AI/ML | Ex-Junior Frontend Developer @ Vrhunec IT
+<h1 align="center">Hi 👋, I'm Chhaya Kumari</h1>
+<h3 align="center">MCA (AI & ML) Student | Python | Data Analysis | Machine Learning</h3>
 
 ---
 
 ## 🚀 About Me
-  
-<p align="center">
-  🔭 <b>Current Focus:</b> Pursuing MCA specializing in Artificial Intelligence and Machine Learning <br>
-  💼 <b>Professional Background:</b> Former Junior Frontend Developer at Vrhunec IT <br>
-  🌱 <b>Learning Journey:</b> Deep Learning, RAG systems, and Python for Data Science <br>
-  💬 <b>Ask me about:</b> React.js, UI/UX, and bridging Frontend with AI <br>
-  ⚡ <b>Goal:</b> Building intelligent applications that are as beautiful as they are smart <br>
-  📍 <b>Based in:</b> India
-</p>
+- 🎓 Pursuing MCA specializing in Artificial Intelligence & Machine Learning  
+- 💻 Former Junior Developer with experience in frontend development  
+- 📊 Currently focusing on Data Analysis, Machine Learning & NLP  
+- 🧠 Improving problem-solving skills through Data Structures & Algorithms  
+- 🎯 Goal: To become a Data Analyst / ML Engineer  
 
 ---
 
-## 🛠 My Tech Stack
-
-| Category | Skills |
-| :--- | :--- |
-| **AI / ML** | Python • Data Analysis • Neural Networks |
-| **Frontend** | HTML5 • CSS3 • JavaScript (ES6+) • React.js |
-| **Backend/DB** | Node.js • SQL • MongoDB |
-| **Tools** | Git • GitHub • VS Code • Postman |
+## 🛠️ Skills
+- **Programming:** Python  
+- **Data Analysis:** Pandas, NumPy, Matplotlib  
+- **Machine Learning:** Scikit-learn (Basics)  
+- **Web:** HTML, CSS, JavaScript, React (Basic)  
+- **Tools:** Git, GitHub, VS Code  
 
 ---
 
-## 📂 Featured Projects
-*✨ Coming soon! I am currently building AI-driven web applications ✨*
+## 📌 Projects
+
+### 📊 Student Data Analysis
+- Analyzed student performance using Python (Pandas, Matplotlib)  
+- Generated insights using data visualization  
+
+### 📩 Spam Email Classifier
+- Built ML model using NLP techniques  
+- Classified emails as spam or not spam  
 
 ---
 
-## 📫 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chhaya-kumari-5a0b70251) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chhaya18180@gmail.com)
-
----
-
-</div>
+## 📫 Connect with Me
+- LinkedIn: www.linkedin.com/in/chhaya-kumari-5a0b70251
+- Email: chhaya18180@gmail.com || bhartishadow@gmail.com
